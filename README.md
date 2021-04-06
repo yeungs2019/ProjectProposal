@@ -1,7 +1,9 @@
 # Four-part Writing Machine
 
 Name: Steven Yeung
+
 Project Advisor: Dr. Sean Hayes
+
 Expected Graduation Date: May 2022
 
 # Problem Statement
