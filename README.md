@@ -36,19 +36,28 @@ The project will be completed using the above languages mentioned.  If a change 
 # Tentative Schedule
 
 2021
+
 2/24 - 4/6 Proposal editing.
+
 2/24 – 2/26 Proposal finalization
+
 3/3 - 4/6 Requirements Document draft and Final
 (create test plan)
+
 5/1- 8/16 Rough Draft of construction of project
+
 8/16 - 11/22 Minimal Product Usage
 
 2022
+
 01/03 – 02/03 Implement the test plan.
+
 02/04 - 03/05 Analyze Results.
+
 03/06 – 03/31 Fix Bugs and Finalize Features
+
 04/01 Finalize Documentation.
+
 04/06 Dress Rehearsal for presentation.
+
 04/08-04/15 Defense Presentation.
-
-
