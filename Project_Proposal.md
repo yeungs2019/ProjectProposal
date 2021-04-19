@@ -6,6 +6,9 @@ Project Advisor: Dr. Sean Hayes
 
 Expected Graduation Date: May 2022
 
+# Ideal State of Affairs
+   Four-part harmony and its rules are usually difficult concepts to master and require a lot of practice and time.  Some people (musicians) do not have the time to sit and figure out the rules and memorize them.
+
 # Problem Statement
    Learning music theory and its rules are not at the speed as it should be.  Many places for learning music theory are at a slow pace.  It usually takes more than 2 months of time to have the theory rules completely secured.  The problem is with the four-part writing rules.  Many people have the difficulty in learning the four-part learning rules at a fast pace.  Because many people have the trouble learning the rules quickly, it can slow down the instructor and cause him/her to slow down the pace, which is detrimental in covering all material effectively.  Also, the handful of students that have the rules secured are forced to stay behind and review the same material along with those who are having difficulty with the rules.  
 
@@ -13,7 +16,7 @@ Expected Graduation Date: May 2022
 
 # Project Description
 
-Four-part writing has been an important aspect when studying music theory.  To learn this subject quickly, practice must be done tediously to achieve this skill.  With this project, results will be delivered immediately without the wait of another person(s) approval.  This project will feature the aspects of computer science alongside with aspects of music writing to allow creativity to take place.  The purpose of the project is to enhance the number of musical tools, technically, that will allow musicians to use.  The aim of the project is to accelerate learning four-part harmonies as well as save time for the ones studying music.  
+Four-part writing has been an important aspect when studying music theory.  To learn this subject quickly, practice must be done tediously to achieve this skill.  With this project, results will be delivered immediately without the wait of another person(s) approval.  This project will feature the aspects of computer science alongside with aspects of music writing to allow creativity to take place.  When the user opens this project, they will be met with a blank grand staff.  The user will be able to create their own four-part harmony using an extension of an open source note notation software.  They are also able to write roman numerals.  This will be their roman numeral analysis. Once they have completed their melody and roman numeral analysis, they will hit run and the project will point out their errors and prompt them to correct them.
 
 # Proposed Languages
 
@@ -29,7 +32,11 @@ This project will be pulled from an open-source repository.  MuseScore is an ope
 
 # Personal Motivation
 
-I feel like this project can help me understand programming on another level because I am trying to create something that also interests me.  It will also help me understand data structures that can potentially be used in this project.  
+I feel like this project can help me understand programming on another level because I am trying to create something that also interests me.  It will also help me understand data structures that can potentially be used in this project.  I am also a musician myself.  I also understand the struggles of learning four-part harmony for the first time.  It was not an easy feat.  With this project in the making, it can potentially help solve most of the musician's problems when it comes to learning four-part harmony and its rules.
+
+# Research
+
+Research will be conducted by looking up open-source software like MuseScore to obtain ideas on how the software will function as a whole.  It is not only the programming language that is present, but other extenstions like QT and JavaScript.  Logic will be mapped out and rules of the harmony will be applied to the logic.  Data structure research may also be conducted because the notes need to be stored in memory somehow.  This applies to the roman numerals as well.  Research on a vector traversing through notes on a staff as it is running may be a possibility.  Overall, the majority of research will be done by studying the open source code really well and seeing how the developers coded it.
 
 # How will the project be completed?
 
