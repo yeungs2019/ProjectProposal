@@ -40,7 +40,7 @@ Research will be conducted by looking up open-source software like MuseScore to 
 
 # How will the project be completed?
 
-The project will be completed using the above languages mentioned.  If a change is necessary, it will be carried over.  Deliverables may include designing the interface, proposing logic that is correct, etc.
+The project will be completed using the above languages mentioned. The majority of the project will coded in C++ and using other extensions to execute the project.  Testing will done throughout the coding process to ensure that every corner case is not missing.  Deliverables may include designing the interface, proposing logic that is correct, etc.
 
 # Tentative Schedule
 
